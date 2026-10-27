@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Churrasco na Brasa — Fluxo de Caixa",
+  "short_name": "Churrasco na Brasa",
+  "description": "Controle diário de vendas, saídas e faturamento do Churrasco na Brasa.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101310",
+  "theme_color": "#101310",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
